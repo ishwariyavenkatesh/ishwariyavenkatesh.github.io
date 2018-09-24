@@ -1,0 +1,7 @@
+nav#navbar-main li {
+	font-size: 23px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: rgb(246, 99, 150);
+} 
