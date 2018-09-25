@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
-    <link>https://ishwariyavenkatesh.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <title>2 on Academic</title>
+    <link>https://ishwariyavenkatesh.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>Mypaper</title>
-      <link>https://ishwariyavenkatesh.github.io/content/publication/mypaper/</link>
-      <pubDate>Sat, 22 Sep 2018 15:44:40 -0500</pubDate>
-      
-      <guid>https://ishwariyavenkatesh.github.io/content/publication/mypaper/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://ishwariyavenkatesh.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons</title>
@@ -34,15 +27,6 @@
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ishwariyavenkatesh.github.io/publication/devchrom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selecting optimal combinations of transcription factors to promote axon regeneration: Why mechanisms matter.</title>
-      <link>https://ishwariyavenkatesh.github.io/publication/optimaltf/</link>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ishwariyavenkatesh.github.io/publication/optimaltf/</guid>
       <description></description>
     </item>
     
