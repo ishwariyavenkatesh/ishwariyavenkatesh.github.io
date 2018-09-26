@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on Ish</title>
     <link>https://ishwariyavenkatesh.github.io/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on Ish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>Copyright &amp;copy; Ish Venkatesh</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ishwariyavenkatesh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ishwariyavenkatesh.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ishwariyavenkatesh.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

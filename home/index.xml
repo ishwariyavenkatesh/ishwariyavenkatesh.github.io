@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Ish</title>
     <link>https://ishwariyavenkatesh.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Ish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>Copyright &amp;copy; Ish Venkatesh</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://ishwariyavenkatesh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -54,7 +54,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ishwariyavenkatesh.github.io/home/projects/</guid>
-      <description></description>
+      <description> .card .card-image { display: block; position: relative; max-width: 400px; max-height: 400px; }  </description>
     </item>
     
     <item>
@@ -90,8 +90,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ishwariyavenkatesh.github.io/home/funding/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>h1, h2,h4 { color: rgb(246, 99, 150) !important; } 
+Ongoing research support:  NIH R21 - R21NS106309 – Co-I 09/2018 - 09/2020 Regulation of CNS Regeneration by Chromatin Accessibility and Pioneer Factors $415,000
+ NSF-XSEDE- PI 08/2018 - 08/2020 In silico approaches to identify optimal combinations of pro-regenerative TFs/Pioneer TFs required for axon growth $150,000 in computational resources
+  Completed research support:  Craig H Nielsen post-doctoral fellowship - PI 09/2016 - 09/2018 Epigenetic manipulation of axon growth in mammalian CNS neurons $150,000</description>
     </item>
     
     <item>

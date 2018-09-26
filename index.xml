@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Ish on Ish</title>
     <link>https://ishwariyavenkatesh.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Ish on Ish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>Copyright &amp;copy; Ish Venkatesh</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,45 @@
       
       <guid>https://ishwariyavenkatesh.github.io/publication/optimaltf/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenetic profiling reveals a developmental decrease in promoter accessibility during cortical maturation in vivo.</title>
+      <link>https://ishwariyavenkatesh.github.io/publication/promoter-access/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishwariyavenkatesh.github.io/publication/promoter-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transciptional Control of Axon growth</title>
+      <link>https://ishwariyavenkatesh.github.io/project/networks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ishwariyavenkatesh.github.io/project/networks/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The tumor suppressor HHEX inhibits axon growth when prematurely expressed in developing central nervous system neurons.</title>
+      <link>https://ishwariyavenkatesh.github.io/publication/hhex/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ishwariyavenkatesh.github.io/publication/hhex/</guid>
+      <description>&lt;p&gt;&amp;ast; - These two authors contributed equally&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epigenetic manipulation of axon growth</title>
+      <link>https://ishwariyavenkatesh.github.io/project/accessibility/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ishwariyavenkatesh.github.io/project/accessibility/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

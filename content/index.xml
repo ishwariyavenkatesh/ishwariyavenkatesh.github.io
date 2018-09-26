@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contents on Academic</title>
+    <title>Contents on Ish</title>
     <link>https://ishwariyavenkatesh.github.io/content/</link>
-    <description>Recent content in Contents on Academic</description>
+    <description>Recent content in Contents on Ish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>Copyright &amp;copy; Ish Venkatesh</copyright>
     <lastBuildDate>Sat, 22 Sep 2018 15:44:40 -0500</lastBuildDate>
     
 	<atom:link href="https://ishwariyavenkatesh.github.io/content/index.xml" rel="self" type="application/rss+xml" />

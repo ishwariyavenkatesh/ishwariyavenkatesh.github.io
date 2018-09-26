@@ -5,3 +5,14 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>li>a {
 	color: rgb(246, 99, 150);
 } 
+
+h2#completed-research-support, h2#ongoing-research-support {
+	color: rgb(246, 99, 150) !important ;
+} 
+
+h2 {
+	color: rgb(246, 99, 150) !important;
+} 
+
+
+
