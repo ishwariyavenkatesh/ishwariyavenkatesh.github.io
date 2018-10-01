@@ -61,7 +61,40 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://ishwariyavenkatesh.github.io/project/networks/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left; width:900px; &#34;&gt;Axons are the cables in your nervous system that carry information from the brain to the rest of the body. Injured  adult mammalian neurons in the central nervous system (CNS) fail to re-grow axons (Spinal cord injury), resulting in irreversible permanent damage. However, in nature, several 
+types of neurons are intrinsically capable of robust axon regeneration following injury. These include early post-natal CNS neurons that then lose the capacity for 
+re-growth in a developmental transition. How and why is this capacity for regeneration unequally retained across development? More importantly, &lt;u
+&gt;how can we reprogram injured CNS neurons to re-mount a successful regenerative response?&lt;/u&gt;
+&lt;/p&gt; 
+
+&lt;p&gt;&lt;p style=&#34;text-align:left; width:900px; &#34;&gt;TFs which simultaneously regulate the expression of several regeneration-associated proteins, is one effective way to improve regenerative outcomes following injury. And yet even with the best of TF treatments, the number and distance of regenerating axons falls short of what is needed for full functional recovery. This hints at ineffective reprogramming of neurons back to a growth-competent state. Stem cell biologists have tackled a similar hurdle and emerged victorious! They discovered a while ago that a simple cocktail of four TFs is enough to reprogram any cell back to a pluripotent state. With the right set of TFs, you can effectively re-program even a fibroblast into a neuron! But the key question is how did they get there? How did they achieve such high reprogramming efficiency? First, it’s become obvious that no single TF can do much on its own. TFs are highly social, and work in large interacting groups to drive specific patterns of gene expression. In regeneration-competent neurons, injury response activates multiple hierarchical waves of TFs, that regulate thousands of genes to achieve regenerative success. Now compare that with what we have been providing injured CNS neurons. One single TF treatment. It’s no surprise that this results in inefficient reprogramming. We now know that no single TF is sufficient to mount and sustain a whole transcriptional network supportive of growth.&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left; width:900px; &#34;&gt;
+The burning question is - What are the right sets of TFs that are required to drive axon growth in CNS neurons? This has been the focus of my work, first as a post-doctoral fellow in the Blackmore lab and now as a Research Asst Professor. Using a wide-array of bioinformatic techniques, we have begun to identify relevant combinations of TFs that enhance axon growth in CNS neurons. 
+&lt;/p&gt;
+
+&lt;p&gt;We use a combination of techniques to get at this–&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;RNA-Seq&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gene network analyses&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ATAC-seq based TF footprinting&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In vitro assays of axon growth&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check our recent manuscripts for specifics/more details:&lt;/p&gt;
+
+&lt;p&gt;1)  &lt;a href=&#34;https://www.nature.com/articles/s41598-018-31101-5&#34; target=&#34;_blank&#34;&gt;KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2)  &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/dneu.22605&#34; target=&#34;_blank&#34;&gt;Developmental chromatin restriction of pro‐growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3)  &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466899/&#34; target=&#34;_blank&#34;&gt;Selecting optimal combinations of transcription factors to promote axon regeneration: Why mechanisms matter.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -81,7 +114,25 @@
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://ishwariyavenkatesh.github.io/project/accessibility/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left; width:900px;&#34;&gt;
+
+Axons in the mammalian central nervous system possess low regenerative capacity, which limits functional recovery from spinal cord injury. In contrast to central nervous system (CNS) neurons, regeneration competent peripheral neurons precisely activate key genes in response to axonal injury, resulting in regenerative success. Improving the CNS cell body response to injury in order to enhance axon regeneration is thus a key research goal. In particular, forced expression of critical transcription factors, which can orchestrate the production of the many regeneration-associated proteins, is emerging as an effective way to improve the complex task of axon extension. In my &lt;a href=&#34;http://localhost:1313/project/networks/&#34;&gt; other project &lt;/a&gt;, I described my work towards this line of research.
+ 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align:left; width:900px; &#34;&gt;
+It is likely, however, that another major barrier to initiating a pro-growth genetic program exists at the level of the DNA, that is, at the level of chromatin structure. We have found that genes that are not actively transcribed, such as regeneration associated genes (RAGs) in non-regenerating CNS neurons, are held in a “closed” chromatin state, rendering them inaccessible to transcription factors (TFs). As expression of most RAGs are developmentally down-regulated, the genomic loci around these genes becomes constricted, limiting gene activation and axon growth in mature CNS neurons. In this cellular context, supply of pro-regenerative TFs alone may not achieve optimal RAG activation, if the TFs are unable to bind regulatory sequences due to epigenetic constraints. In a recent manuscript, we found a direct correlation between accessibility of target genes and in vivo efficacy of pro-growth TFs. It’s therefore clear that chromatin accessibility is a major barrier to re-growth in CNS neurons, by preventing TF binding and activation.&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&#34;text-align:left; width:900px; &#34;&gt;
+The central goal of this project is to develop novel molecular strategies for the targeted removal of epigenetic constraints along with supply of pro-regenerative TFs.&lt;/p&gt;
+
+&lt;p&gt;Do check out our recent manuscripts for specifics/more details:&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5159751/&#34; target=&#34;_blank&#34;&gt;Epigenetic profiling reveals a developmental decrease in promoter accessibility during cortical maturation in vivo.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2) &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/dneu.22605&#34; target=&#34;_blank&#34;&gt;Developmental chromatin restriction of pro‐growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
